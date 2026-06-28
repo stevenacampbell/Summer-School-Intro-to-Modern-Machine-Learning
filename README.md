@@ -6,9 +6,10 @@ See the setup folder to get started.
 
 If you are interested in exploring additional references, consider the following texts (which are of varying difficulty):
 
-1) Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David,
-2) Online Learning: A Modern Introduction Using Convex Optimization by Francesco Orabona.
+1) A Course in Machine Learning by Hal Daumé III
+2) Understanding Machine Learning: From Theory to Algorithms by Shai Shalev-Shwartz and Shai Ben-David,
+3) Online Learning: A Modern Introduction Using Convex Optimization by Francesco Orabona.
 
 And, for a more comprehensive classic reference:
 
-3) Prediction, Learning, and Games by Nicolò Cesa-Bianchi and Gábor Lugosi.
+4) Prediction, Learning, and Games by Nicolò Cesa-Bianchi and Gábor Lugosi.
